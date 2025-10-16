@@ -22,6 +22,15 @@ This repository contains a portfolio project built using React.js and Vite. The 
 1. Start the development server: `npm run dev`.
 2. Open your browser and visit `http://localhost:3000` to see the portfolio.
 
+🧑‍💻 About Me
+
+Hi! I’m Abhinav Dixit, a passionate Full Stack Developer who enjoys building meaningful and user-centric applications. I’m focused on creating impactful web solutions that enhance learning and collaboration in the tech community.
+
+📫 Connect with me: Linkedin : https://www.linkedin.com/in/abhinavdixit771/ github : https://github.com/Abhinav07072001
+
+💡 Hashtags :
+#PortfolioWebsite #WebDeveloper #FrontendDevelopment #ReactJS #PersonalPortfolio #UIUX #ResponsiveDesign #DeveloperShowcase #CleanCode #WebDesign #JavaScriptDeveloper #CodingJourney
+
 
 
 
